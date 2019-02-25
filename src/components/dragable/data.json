@@ -1,0 +1,674 @@
+[
+  {
+    "title": "Header",
+    "data": [
+      {
+        "id": 1,
+        "name": "chapterheader",
+        "uuid": "",
+        "type": "chapterheader",
+        "data": {
+          "title": "SCTE•ISBE Chapters",
+          "content": "SCTE•ISBE's Chapter members are the most active in the Society. They're dediated to educating broadband engineers on the latest technologies and leadership skills necessary to be successful.",
+          "button": [
+            {
+              "name": "Read More",
+              "link": "#",
+              "target": "",
+              "backgroundColor": ""
+            }
+          ],
+          "background": ""
+        }
+      },
+      {
+        "id": 2,
+        "name": "aboutheader",
+        "uuid": "",
+        "type": "aboutheader",
+        "data": {
+          "title": "About SCTE•ISBE",
+          "content": "<p><span>Expediting Expertise.</span> SCTE•ISBE is the applied science leader for cable telecommunications. Founded in 1969, the Society promotes technical workforce proficiency and provides thought leadership for the industry, equipping professionals to <span>accelerate deployment of technology to drive business results.</span></p>",
+          "button": [
+            {
+              "name": "EXPAND",
+              "link": "#",
+              "target": "",
+              "backgroundColor": ""
+            }
+          ],
+          "background": ""
+        }
+      },
+      {
+        "id": 3,
+        "name": "resourceheader",
+        "uuid": "",
+        "type": "resourceheader",
+        "data": {
+          "title": "Resources",
+          "content": "",
+          "button": [
+            {
+              "name": "EXPAND",
+              "link": "#",
+              "target": "",
+              "backgroundColor": ""
+            }
+          ],
+          "background": ""
+        }
+      },
+      {
+        "id": 4,
+        "name": "categoriesheader",
+        "uuid": "",
+        "type": "categoriesheader",
+        "data": {
+          "title": "Standards Categories",
+          "content": "<b>Maximum Coverage.</b> From Data, Digital Video, and Energy to Equipment &amp; Cabling and Network Ops, the ANSI-accredited SCTE•ISBE Standards Program constructs consensus among technology stakeholdersto propel cable telecommunications forward. Member companies develop standards and practices vitalto accelerating deployment of technology.Amplify your enterprise's acumen for innovation and drive business results. Exert your expertise!",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": ""
+            }
+          ],
+          "background": ""
+        }
+      },
+      {
+        "id": 5,
+        "name": "certificationheader",
+        "uuid": "",
+        "type": "certificationheader",
+        "data": {
+          "title": "Professional Certifications",
+          "content": "SCTE•ISBE certification is the industry's premier professionalendorsement. A proven foundation of knowledge, in-depth testing, and ongoing professional development. We certify at various levels across all areas of the cable network.",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": ""
+            }
+          ],
+          "background": ""
+        }
+      },
+      {
+        "id": 6,
+        "name": "corporateheader",
+        "uuid": "",
+        "type": "corporateheader",
+        "data": {
+          "title": "SCTE•ISBE Corporate<br/> Alliance Partner Program",
+          "content": "Conceived as a true strategic partnership between corporate members and SCTE•ISBE, the Corporate Alliance Partnership (CAP) Program's participants realize significant savings by engaging across a wide variety of opportunities.",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": ""
+            }
+          ],
+          "background": ""
+        }
+      },
+      {
+        "id": 7,
+        "name": "developmentheader",
+        "uuid": "",
+        "type": "developmentheader",
+        "data": {
+          "title": "Standard Development",
+          "content": "Profitability Through Interoperability.</span> The SCTE•ISBE Standards Program is the only ANSI-accredited platform for developing technical specifications supporting cable telecommunications—from F Connectors to Internet of Things. The indispensable program is foundationally integral to the health and wealth of its corporate members and the industry at large primarily in four tangible respects:",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": ""
+            }
+          ],
+          "background": ""
+        }
+      },
+      {
+        "id": 8,
+        "name": "eventheader",
+        "uuid": "",
+        "type": "eventheader",
+        "data": {
+          "title": "SCTE•ISBE Events",
+          "content": "Plans Worth Pursuing.</span> From monthly technical sessions and vendor days at its local chapters to its flagship annual conference, Cable-Tec Expo<sup>®</sup>, SCTE•ISBE brings the industry together as only it can for knowledge sharing, skills refinement, and executive leadership development—all of which keep the cable telecommunications workforce primed for accelerating the deployment of technology to drive business results.",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": ""
+            }
+          ],
+          "background": ""
+        }
+      },
+      {
+        "id": 9,
+        "name": "membershipheader",
+        "uuid": "",
+        "type": "membershipheader",
+        "data": {
+          "title": "Membership",
+          "content": " <span>The Network for Your Network.</span> Succeed with SCTE•ISBE, a potent force for the technical workforce. Accelerate deployment of technology to drive business results. Exclusive benefits keep professionals like you prepared for technology's growing sophistication. Let the industry's applied science arm increase your expertise. Comprising innovative thinkers and problem solvers, SCTE•ISBE is the go-to network for every broadband network-and career.",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": ""
+            }
+          ],
+          "background": ""
+        }
+      }
+    ]
+  },
+  {
+    "title": "Main Blocks",
+    "data": [
+      {
+        "id": 1,
+        "name": "Diversity",
+        "uuid": "",
+        "type": "Diversity",
+        "data": {
+          "title": "Diversity & Inclusion",
+          "content": " SCTE•ISBE's long-term goal is to ensure that our membership, volunteer membership, and staff represent a strong and evolving model of diversity and inclusion for the technical operations and engineering workforce of the Broadband Industry, and those that support them.",
+          "button": [
+            {
+              "name": "Read More",
+              "link": "#",
+              "target": "",
+              "backgroundColor": "btn-green"
+            }
+          ],
+          "background": ""
+        }
+      },
+      {
+        "id": 2,
+        "name": "Block2",
+        "uuid": "",
+        "type": "Block2",
+        "data": {
+          "title": "Diversity Initiatives",
+          "content": "In early 2012 SCTE•ISBE began its launch of the SCTE•ISBE Diversity & Inclusion Initiative through the creation of several programs supporting its Inclusion Philosophy. Multi-channel News worked with SCTE•ISBE Senior Vice President of Operations, Cathy Oakes, in posting an article that highlights key areas of focus for SCTE•ISBE Diversity & Inclusion in the year ahead.",
+          "button": [
+            {
+              "name": "Read More",
+              "link": "#",
+              "target": "",
+              "backgroundColor": "btn-orange"
+            }
+          ],
+          "background": ""
+        }
+      },
+      {
+        "id": 3,
+        "name": "standards_education",
+        "uuid": "",
+        "type": "standards_education",
+        "data": {
+          "title": "Standards, Education, and Certification.",
+          "content": "The Society of Cable Telecommunications Engineers (SCTE•ISBE) is the premier technical Society in the cable telecommunications industry. Together with our 22,000 members and 42 industry partners, we provide the technical guidance, learning solutions, and professional credentials that drive the cable industry towards     the future.The Society of Cable Telecommunications Engineers (SCTE•ISBE) is the premier technical Society in the cable telecommunications industry. Together with our 22,000 members and 42 industry partners, we provide the technical guidance, learning solutions, and professional credentials that drive the cable industry towards the future.",
+          "button": [
+            {
+              "name": "STANDARDS",
+              "link": "#",
+              "target": "",
+              "backgroundColor": "btn-blue"
+            },
+            {
+              "name": "LEARNING",
+              "link": "#",
+              "target": "",
+              "backgroundColor": "btn-orange"
+            },
+            {
+              "name": "CERTIFICATIONS",
+              "link": "#",
+              "target": "",
+              "backgroundColor": "btn-green"
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 4,
+        "name": "vendor",
+        "uuid": "",
+        "type": "vendor",
+        "data": {
+          "title": "Vendor Days",
+          "content": "<p>Each year, SCTE•ISBE chapters host approximately 50 Vendor Days — an opportunity to learn about exciting technologies and to compete in the local <span className='golden-color'>Cable-Tec Games.</span> Find a list of upcoming local Vendor Days in the <span className='blue-color'>SCTE•ISBE Event Calendar.</span> If you are interested in volunteering or would like more information about an upcomingVendor Day, please contact your local <span className='golden-color'>chapter volunteers.</p>",
+          "button": [
+            {
+              "name": "CHECK THE EVENT CALENDAR",
+              "link": "#",
+              "target": "",
+              "backgroundColor": "btn-blue"
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 5,
+        "name": "chapterhappening",
+        "uuid": "",
+        "type": "chapterhappening",
+        "data": {
+          "title": "Chapter Happenings",
+          "content": "Each local SCTE•ISBE chapter offers at least 30 hours of technical training a year - about 300 technical training sessions in total. Chapters also offer useful webinars covering the latest industry topics, host vendor days, and provide training resources to help further your certification path(s) of choice.",
+          "button": [
+            {
+              "name": "LIST OF TRAINING SESSIONS",
+              "link": "#",
+              "target": "",
+              "backgroundColor": "btn-grey-light"
+            },
+            {
+              "name": "LIST OF CHAPTER WEBINARS",
+              "link": "#",
+              "target": "",
+              "backgroundColor": "btn-blue"
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 6,
+        "name": "sctevision",
+        "uuid": "",
+        "type": "sctevision",
+        "data": {
+          "title": "The SCTE•ISBE Vision",
+          "content": "<p>Creating Value. Preparing them for what's next in technology, SCTE•ISBE can benefit all professionals in the industry, helping them to create an exceptional customer experience. Cultivating unmatched<span> technical innovation, training, certification, and standards-with partners CableLabs<sup>®</sup> and NCTA-SCTE•ISBE creates value for corporate and individual members. Standards Development. </span> </p>",
+          "button": [
+            {
+              "name": "MORE INSIGHT",
+              "link": "#",
+              "target": "",
+              "backgroundColor": "btn-grey-light"
+            }
+          ],
+          "background": "",
+          "image": "../../../src/assets/images/vision.jpg"
+        }
+      },
+      {
+        "id": 7,
+        "name": "livelearning",
+        "uuid": "",
+        "type": "livelearning",
+        "data": {
+          "title": "LiveLearning for Professionals",
+          "content": "View all LiveLearning Webinars<sup>TM</sup> by title, description,<br/> and time  to get the knowledge you need to set<br/> yourself above the pack.",
+          "button": [
+            {
+              "name": "VIEW ALL WEBINARS",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 8,
+        "name": "knowledgebase",
+        "uuid": "",
+        "type": "knowledgebase",
+        "data": {
+          "title": "SCTE•ISBE Knowledge Base",
+          "content": "",
+          "button": [
+            {
+              "name": "GAMES &amp; APPS",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            },{
+              "name": "GLOSSARY",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            },{
+              "name": "FACTS &amp; FAQ'S",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            },{
+              "name": "PAPERS",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 9,
+        "name": "resourcetrainer",
+        "uuid": "",
+        "type": "resourcetrainer",
+        "data": {
+          "title": "Resources for Trainers",
+          "content": "Success starts here. Tutorials, primers, guides, documents, and in-depth knowledge to help you deliver effective training and instruction.",
+          "button": [
+            {
+              "name": "TRAINING RESOURCES",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 10,
+        "name": "sctebookstore",
+        "uuid": "",
+        "type": "sctebookstore",
+        "data": {
+          "title": "SCTE•ISBE Bookstore",
+          "content": "Exams, publications, manuals, pocket guides, journals, periodicals, whitepapers, event materials, and more from the industry authority.",
+          "button": [
+            {
+              "name": "VISIT THE BOOKSTORE",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 11,
+        "name": "companysponsored",
+        "uuid": "",
+        "type": "companysponsored",
+        "data": {
+          "title": "Register for your company-sponsored training",
+          "content": "",
+          "button": [
+            {
+              "name": "GO",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 12,
+        "name": "cardcategories",
+        "uuid": "",
+        "type": "cardcategories",
+        "data": {
+          "title": "",
+          "content": "",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 13,
+        "name": "standardprogram",
+        "uuid": "",
+        "type": "standardprogram",
+        "data": {
+          "title": "",
+          "content": "Curious about joining the SCTE•ISBE Standards Program?",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 14,
+        "name": "projectrejister",
+        "uuid": "",
+        "type": "projectrejister",
+        "data": {
+          "title": "Standards Project Register",
+          "content": "The Standards Project Register contains a complete list of all SCTE•ISBE Standards projects, including standards, recommended practices and projects withdrawn from consideration. All projects are organized according to project type and highlight important dates along the approval process, starting from the Project Authorization Request (PAR) through to SCTE•ISBE approval and ANSI final action where applicable.",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 15,
+        "name": "publicreview",
+        "uuid": "",
+        "type": "publicreview",
+        "data": {
+          "title": "ANSI Public Review of SCTE•ISBE Standards",
+          "content": "",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 16,
+        "name": "viewarchive",
+        "uuid": "",
+        "type": "viewarchive",
+        "data": {
+          "title": "",
+          "content": "Only SCTE&bull;ISBE Executive Members can view archived recordings of LiveLearning Webinars. Access the archives to keep your leadership skills fresh and learn on your own time!",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            }
+          ],
+          "background": "red",
+          "image": null
+        }
+      },
+      {
+        "id": 17,
+        "name": "workforce",
+        "uuid": "",
+        "type": "workforce",
+        "data": {
+          "title": "Maintain a Competitive Workforce",
+          "content": "Conceived as a true strategic partnership between corporate members and SCTE•ISBE, the Corporate Alliance Partnership (CAP) Program's participants realize significant savings by engaging across a wide variety of opportunities with the Society. Incremental value and benefits are realized by fully utilizing integrated programs across all areas of the cable communications network.",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 18,
+        "name": "partnership",
+        "uuid": "",
+        "type": "partnership",
+        "data": {
+          "title": "Partnership that Aligns with<br/> Your Business Goals",
+          "content": "There are distinct CAP programs for three stakeholder groups.<br/> Partners can leverage expertise specifically suited to their team's<br/> objectives. The program and entrance fees are structured to allow <br/>companies of all sizes to reap maximum value from participation.",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 19,
+        "name": "engineersection",
+        "uuid": "",
+        "type": "engineersection",
+        "data": {
+          "title": "",
+          "content": "SCTE•ISBE's Corporate Alliance is an annual organizational partnership. It is open to companies wanting to further engage with SCTE•ISBE while being recognized for <br/>their contributions and support through the calendar year. CAP companies build<br/> workforce expertise and drive business results. The program and entrance fees are <br/>structured to ensure that companies of all sizes can reap maximum value from <br/>participation. Incremental value and benefits are realized by fully utilizing <br/>integrated programs across:",
+          "button": [
+            {
+              "name": "",
+              "link": "#",
+              "target": "",
+              "backgroundColor": null
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 20,
+        "name": "positionsection",
+        "uuid": "",
+        "type": "positionsection",
+        "data": {
+          "title": "Position Your Company to Address the Industry's Future",
+          "content": "Members have the option to tailor the knowledge and standards<br/> development path of their organizations to match their long-term<br/> goals. Create a program that puts your team ahead of the curve. Help engineer standards, create a customized learning program, be a part of chapter activities, visit Cable-Tec Expo<sup>®</sup>, get access to special events - and more!",
+          "button": [
+            {
+              "name": "LEARN MORE ABOUT THE PROGRAM",
+              "link": "#",
+              "target": "",
+              "backgroundColor":  "btn-orange"
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 21,
+        "name": "downloadscteapproved",
+        "uuid": "",
+        "type": "downloadscteapproved",
+        "data": {
+          "title": "Download SCTE•ISBE-Approved Standards",
+          "content": "All documents are consensus developed and SCTE•ISBE Engineering Committee approved SCTE•ISBE standards. Many of these standards have been approved by the American National Standards Institute (ANSI) and are so designated. <br/><br/> Electronic copies of approved SCTE•ISBE standards are complimentary and available free of charge to the public.",
+          "button": [
+            {
+              "name": "view all scte•isbe standards",
+              "link": "#",
+              "target": "",
+              "backgroundColor": "btn-blue"
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 22,
+        "name": "standardstand",
+        "uuid": "",
+        "type": "standardstand",
+        "data": {
+          "title": "Standards Stand Tall",
+          "content": "The ANSI-accredited SCTE•ISBE Standards Program<br/> accelerates the deployment of new and improved<br/> technology.",
+          "button": [
+            {
+              "name": "Learn more",
+              "link": "#",
+              "target": "",
+              "backgroundColor": "btn-blue"
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      },
+      {
+        "id": 23,
+        "name": "digitalbasics",
+        "uuid": "",
+        "type": "digitalbasics",
+        "data": {
+          "title": "Digital Basics and DOCSIS Fundamentals",
+          "content": "Discover the models at work in deploying data over telecommunications networks throughout this two-day seminar. Attendees learn the principles of digital signals and data transmission, for a better understanding of data transport protocols over local and wide area networks. Learners discuss the benefits of digital vs. analogue, calculate analogue-to-digital-conversion and examine digital modulation techniques. High-speed data over cable networks using DOCSIS; cable modems is also covered.",
+          "button": [
+            {
+              "name": "READ THE REST OF THE STORY",
+              "link": "#",
+              "target": "",
+              "backgroundColor": "btn-blue"
+            }
+          ],
+          "background": "",
+          "image": null
+        }
+      }
+    ]
+  }
+]

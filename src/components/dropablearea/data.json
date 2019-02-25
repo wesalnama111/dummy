@@ -1,0 +1,28 @@
+{
+  "data":[{
+    "title":"Diversity & Inclusion",
+    "content":" SCTE•ISBE's long-term goal is to ensure that our membership, volunteer membership, and staff represent a strong and evolving model of diversity and inclusion for the technical operations and engineering workforce of the Broadband Industry, and those that support them.",
+    "button":[
+      {
+        "uuid": "",
+        "name": "Read More",
+        "link": "",
+        "target": ""
+      }
+    ],
+    "background":""
+  },
+    {
+      "title":"Diversity Initiatives",
+      "content":"In early 2012 SCTE•ISBE began its launch of the SCTE•ISBE Diversity & Inclusion Initiative through the creation of several programs supporting its Inclusion Philosophy. Multi-channel News worked with SCTE•ISBE Senior Vice President of Operations, Cathy Oakes, in posting an article that highlights key areas of focus for SCTE•ISBE Diversity & Inclusion in the year ahead.",
+      "button":[
+        {
+          "uuid": "",
+          "name": "Read More",
+          "link": "",
+          "target": ""
+        }
+      ],
+      "background":""
+    }]
+}
